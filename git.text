@@ -1,0 +1,18 @@
+INIICAILZACION Y Commit
+-> git init: git inicia y crea dos areas donde almecenara los proyectos: 
+Área de ensayo(string area);
+Repositorio(Repositorio local);
+
+->git add: seguimiento de un archivo ó de todos los archivos.
+->git Commit: sube los archivos al depositoro.
+
+-> git statis -s: mos da el listado de los archivos en el proyecto.
+-> git add index.html : ase seguimento a un archivo determinado (git add nombre archivo)
+
+-> git commit -m "comiezo del proyecto" : ejemplo de copia proyecto
+->git log --oneline: informe de todas las copias del proyecto o commits.
+->git reset --hard codigo instantanera , podemos mirar el codigo git log y viendo todas las copias..
+
+SUBIR Repositorio:
+
+-> git commit -am "parrafo y tamaño de fuente" : realizamos comit y agragamos al mismo tiempo. 
