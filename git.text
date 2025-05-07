@@ -15,4 +15,9 @@ Repositorio(Repositorio local);
 
 SUBIR Repositorio:
 
--> git commit -am "parrafo y tamaño de fuente" : realizamos comit y agragamos al mismo tiempo. 
+-> git commit -am "parrafo y tamaño de fuente" : realizamos comit y agragamos al mismo tiempo.
+-> mifificar descripcion: atraves de VIM , CON > git commit --amend:
+    con :i - podemos empezar a editar.
+   esc +depues :wq - para guadar y salir una vez editado el cambio.
+
+-> Traer modificaciones de remoto a local; > git pull
